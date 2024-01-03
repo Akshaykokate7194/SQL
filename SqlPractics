@@ -1,4 +1,5 @@
 create table employees (Name varchar(50),DOB varchar(50),Salary int,Address varchar(100))
 insert into employees values
 ('Akshay Kokate','10-07-1995',50000,'Sambhajinagar'),
-('Tushar Gupta','15-04-1995',60000,'Mumbai');
+('Tushar Gupta','15-04-1995',60000,'Mumbai'),
+('Suvid Shahapurkar','05-01-1995',70000,'Pune')
